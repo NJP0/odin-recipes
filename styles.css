@@ -1,0 +1,12 @@
+.background{
+    background-color: rgb(0, 183, 255);
+}
+.home-text{
+    color: wheat;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.recipe-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+}
